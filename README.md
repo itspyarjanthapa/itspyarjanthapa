@@ -9,8 +9,8 @@
   </p>
   
   <!-- Stats (Optional: Use GitHub Stats cards) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itspyarjanthapa&show_icons=true&theme=radical&hide_border=true" alt="Pyarjan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspyarjanthapa&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  ### <img src="https://github-readme-stats.vercel.app/api?username=itspyarjanthapa&show_icons=true&theme=radical&hide_border=true" alt="Pyarjan's GitHub Stats" width="48%" />
+  ### <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspyarjanthapa&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ### 🚀 About Me
@@ -33,12 +33,11 @@
 | **Vutungtung (Vehicle Rental Platform)** | Full-stack platform for booking/managing vehicles with dashboards and secure payments (eSewa/COD). | React, Node.js, MongoDB | [Portfolio](https://www.pyarjanthapa.com.np/) |
 | **Typing Speed Test** | Fun game to test typing speed and accuracy with real-time WPM/accuracy scores. | JavaScript, React | [Portfolio](https://www.pyarjanthapa.com.np/) |
 | **AdminPro (Admin Dashboard)** | Dashboard for tracking users, products, orders, and analytics. | React, Node.js | [Portfolio](https://www.pyarjanthapa.com.np/) |
-| **bolt.diy** | Prompt, run, edit, and deploy full-stack web apps using any LLM! (Forked template). | TypeScript | [GitHub](https://github.com/itspyarjanthapa/bolt.diy) |
-| **MovieMandap-App** | Movie-related app (details coming soon). | TypeScript | [GitHub](https://github.com/itspyarjanthapa/MovieMandap-App) |
+| **MovieMandap-App** | Movie-related app (details coming soon). | TypeScript | 
 
 ### 📊 GitHub Stats
-###- **Contributions**: 218 in the last year (99% commits – keep pushing! 💪)
-###- **Repos**: Explore my [full list](https://github.com/itspyarjanthapa?tab=repositories).
+- **Contributions**: 218 in the last year (99% commits – keep pushing! 💪)
+
 
 ### 📫 Connect With Me
 - 🌐 Portfolio: [pyarjanthapa.com.np](https://www.pyarjanthapa.com.np/)
