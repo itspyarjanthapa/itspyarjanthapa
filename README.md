@@ -37,14 +37,14 @@
 | **MovieMandap-App** | Movie-related app (details coming soon). | TypeScript | [GitHub](https://github.com/itspyarjanthapa/MovieMandap-App) |
 
 ### 📊 GitHub Stats
-- **Contributions**: 218 in the last year (99% commits – keep pushing! 💪)
-- **Repos**: Explore my [full list](https://github.com/itspyarjanthapa?tab=repositories).
+###- **Contributions**: 218 in the last year (99% commits – keep pushing! 💪)
+###- **Repos**: Explore my [full list](https://github.com/itspyarjanthapa?tab=repositories).
 
 ### 📫 Connect With Me
 - 🌐 Portfolio: [pyarjanthapa.com.np](https://www.pyarjanthapa.com.np/)
 - 💼 LinkedIn: [linkedin.com/in/pyarjanthapa](https://www.linkedin.com/in/pyarjanthapa/)
-- 📧 Email: [pyarjan@example.com](mailto:pyarjan@example.com) (Replace with your actual email)
-- 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle) (Add if applicable)
+- 📧 Email: [itspyarjanchhetri@gmail.com](mailto:itspyarjanchhetri@gmail.com)
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itspyarjanthapa&style=flat-square&color=blue" alt="Visitor Count" />
@@ -53,4 +53,4 @@
 
 ---
 
-⭐ **Star this repo if it helps!** | Built with ❤️ using Markdown
+⭐ **Star this repo if it helps!** 
