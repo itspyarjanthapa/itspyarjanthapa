@@ -1,82 +1,56 @@
-Hi there! 👋 I'm Pyarjan Thapa, a passionate developer and open-source enthusiast. Welcome to my GitHub profile!
-🚀 About Me
+<div align="center">
+  <!-- Profile Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Fullstack+Developer;Building+scalable+apps+with+love+%E2%9D%A4%EF%B8%8F;Open+to+opportunities!" alt="Typing SVG" />
+  
+  <h1>👋 Pyarjan Thapa</h1>
+  
+  <p>
+    <strong>Fullstack Developer</strong> | I transform ideas into pixel-perfect digital experiences. Specializing in building scalable applications that users love. Built with love, caffeine, and a lot of late-night debugging ☕.
+  </p>
+  
+  <!-- Stats (Optional: Use GitHub Stats cards) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=itspyarjanthapa&show_icons=true&theme=radical&hide_border=true" alt="Pyarjan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspyarjanthapa&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
-🔭 I’m currently working on [exciting projects – feel free to suggest ideas!].
-🌱 I’m currently learning [e.g., advanced web development, machine learning, etc.].
-👯 I’m looking to collaborate on [open-source contributions, web apps, or anything innovative].
-🤔 I’m looking for help with [any specific challenges or feedback on my repos].
-💬 Ask me about [programming languages, tech stacks, or career advice].
-⚡ Fun fact: [Share something unique about yourself, e.g., "I once built a bot that tweets weather updates in Nepali!"].
+### 🚀 About Me
+- 🔭 **Currently working on**: Fullstack projects with React, Node.js, and AI integrations.
+- 🌱 **Learning**: Advanced TypeScript patterns and Flutter for cross-platform apps.
+- 👯 **Open to**: Collaborations on open-source, freelance gigs, or full-time roles in web/mobile dev.
+- 💬 **Ask me about**: Resume building tools, vehicle rental platforms, or typing games!
+- ⚡ **Fun fact**: 100% dedication to 5+ projects, with 218 contributions in the last year.
 
-🛠️ Tech Stack
+### 🛠️ Skills & Technologies
+| Frontend | Backend | Mobile | Tools & Others |
+|----------|---------|--------|----------------|
+| React, TypeScript, JavaScript | Node.js, Express.js | React Native, Flutter | MongoDB, Firebase, Git, GitHub, Postman |
+| Figma, Photoshop, Illustrator | | | |
 
+### 🔥 Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Aivise (Resume Builder & AI Coach)** | AI-powered resume builder and chat app for career coaching via interactive conversations. | Next.js, Convex, Clerk, Node.js, Express | [Portfolio](https://www.pyarjanthapa.com.np/) |
+| **Vutungtung (Vehicle Rental Platform)** | Full-stack platform for booking/managing vehicles with dashboards and secure payments (eSewa/COD). | React, Node.js, MongoDB | [Portfolio](https://www.pyarjanthapa.com.np/) |
+| **Typing Speed Test** | Fun game to test typing speed and accuracy with real-time WPM/accuracy scores. | JavaScript, React | [Portfolio](https://www.pyarjanthapa.com.np/) |
+| **AdminPro (Admin Dashboard)** | Dashboard for tracking users, products, orders, and analytics. | React, Node.js | [Portfolio](https://www.pyarjanthapa.com.np/) |
+| **bolt.diy** | Prompt, run, edit, and deploy full-stack web apps using any LLM! (Forked template). | TypeScript | [GitHub](https://github.com/itspyarjanthapa/bolt.diy) |
+| **MovieMandap-App** | Movie-related app (details coming soon). | TypeScript | [GitHub](https://github.com/itspyarjanthapa/MovieMandap-App) |
 
+### 📊 GitHub Stats
+- **Contributions**: 218 in the last year (99% commits – keep pushing! 💪)
+- **Repos**: Explore my [full list](https://github.com/itspyarjanthapa?tab=repositories).
 
+### 📫 Connect With Me
+- 🌐 Portfolio: [pyarjanthapa.com.np](https://www.pyarjanthapa.com.np/)
+- 💼 LinkedIn: [linkedin.com/in/pyarjanthapa](https://www.linkedin.com/in/pyarjanthapa/)
+- 📧 Email: [pyarjan@example.com](mailto:pyarjan@example.com) (Replace with your actual email)
+- 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle) (Add if applicable)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itspyarjanthapa&style=flat-square&color=blue" alt="Visitor Count" />
+  <p><em>Thanks for visiting! Let's build something awesome together. 🚀</em></p>
+</div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CategoryTechnologiesLanguagesJavaScript, Python, HTML/CSS, JavaFrameworksReact, Node.js, Django, Spring BootToolsGit, Docker, VS Code, PostmanDatabasesMongoDB, PostgreSQL, MySQLOthersAWS, CI/CD, RESTful APIs
-(Feel free to customize this table with your actual tech stack.)
-📊 GitHub Stats
-Your GitHub Stats
-Top Languages
-(These are dynamic badges – they update automatically!)
-🔥 Featured Repositories
-Here are some of my notable projects. Check them out!
-
-Repo Name 1: Brief description. Built with [tech stack]. Stars: ⭐
-Repo Name 2: Brief description. A fun side project exploring [topic].
-Repo Name 3: Description. Contributions welcome!
-
-(Replace with your actual repositories. If you have none yet, start by creating one!)
-📈 Activity Graph
-Activity Graph
-📫 Connect With Me
-
-📧 Email: itspyarjanchhetri@gmail.com
-💼 LinkedIn: [linkedin.com/in/pyarjanthapa](https://www.linkedin.com/in/pyarjanthapa/)
-🌐 Website: pyarjanthapa.com.np
-🐛 Bug reports: Open an issue
-
-🤝 Contributing
-Contributions are welcome! Please read the contributing guidelines (create this file if needed) before submitting pull requests.
-
-Fork the project.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a Pull Request.
-
-📜 License
-This profile is licensed under the MIT License – feel free to use it as inspiration!
-🙏 Acknowledgments
-
-Thanks to the open-source community for all the amazing tools and inspiration!
-Shoutout to GitHub Readme Stats for the cool widgets.
-
-
-⭐ Star this repository if you found it helpful!
-Made with ❤️ by Pyarjan Thapa. Last updated: December 2025.
+⭐ **Star this repo if it helps!** | Built with ❤️ using Markdown
