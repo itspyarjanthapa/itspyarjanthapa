@@ -20,12 +20,19 @@
 - 💬 **Ask me about**: Resume building tools, vehicle rental platforms, or typing games!
 - ⚡ **Fun fact**: 100% dedication to 5+ projects, with 218 contributions in the last year.
 
-### 🛠️ Skills & Technologies
-| Frontend | Backend | Mobile | Tools & Others |
-|----------|---------|--------|----------------|
-| React, TypeScript, JavaScript | Node.js, Express.js | React Native, Flutter | MongoDB, Firebase, Git, GitHub, Postman |
-| Figma, Photoshop, Illustrator | | | |
+### 🛠️ Tech Stack
 
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+</p>
 ### 🔥 Featured Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
