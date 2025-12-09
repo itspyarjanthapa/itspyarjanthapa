@@ -1,67 +1,103 @@
-<!-- =======================  FUTURISTIC HEADER  ======================== -->
+<!-- ============================================================ -->
+<!--                    NEON FUTURISTIC HEADER                    -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2700&pause=800&color=00E5FF&center=true&vCenter=true&lines=Hey+I'm+Pyarjan+Thapa+👋;Fullstack+Developer+%7C+AI+Builder;Crafting+Scalable+Digital+Experiences;Building+with+Code%2C+Coffee+%26+Creativity" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg?username=itspyarjanthapa&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<h1 align="center">💫 Fullstack Developer | Vision-Driven Builder</h1>
-
-<p align="center">
-I design and engineer <strong>high-impact, modern, scalable apps</strong> that users love.  
-Fueled by <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and a lot of late-night caffeine. ☕  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Pyarjan+Thapa+👋;Fullstack+Developer+|+AI+Engineer;I+Build+Modern+Scalable+Digital+Experiences;Turning+Ideas+Into+High-Impact+Products!" />
 </p>
 
 <br/>
 
-<!-- =======================  GLASS CARD ABOUT ME  ======================== -->
+<!-- ======================== GLASS CARD INTRO ======================== -->
 
-<div align="center">
-  
-🧠 **Currently mastering**: Advanced TypeScript Patterns, Convex, Flutter  
-🚀 **Working on**: AI resume coach, rental system, dashboards, UI kits  
-🤝 **Collaboration**: Full-stack, mobile apps, open-source  
-🎯 **Contribution Goal**: 500+ commits this year  
-⚡ **Fun fact**: Can debug Night-Mode bugs even at 2:30 AM
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,100:8A2BE2&text=Pyarjan%20Thapa&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling" />
+</p>
+
+<h2 align="center">💫 Fullstack Developer | Creative Engineer | Problem Solver</h2>
+
+<p align="center">
+  I design and build next-gen digital experiences powered by modern software engineering.<br/>
+  Passionate about <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>AI tools</strong>, and stunning UI/UX.
+</p>
+
+<br/>
+
+
+<!-- ======================== BADGE / STATUS BAR ======================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-High-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-20%2B-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20For%20Work-00FF9D?style=for-the-badge" />
+</p>
 
 <br/><br/>
 
-<!-- =======================  TECH STACK - GLASS ICON BAR  ======================== -->
+<!-- ======================== TECH STACK ======================== -->
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,firebase,postgres,flutter,figma,git,github,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,firebase,postgres,flutter,figma,git,github,vercel,linux,cloudflare&theme=light" />
 </p>
 
-<br/>
+<br/><br/>
 
-<!-- =======================  SHOWCASE PROJECTS IN PREMIUM BADGES  ======================== -->
+<!-- ======================== FEATURED PROJECTS ======================== -->
 
 <h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
 
-| Project | Tech | Link |
-|--------|------|------|
-| 🧠 **Aivise – AI Resume Coach** | Next.js • Convex • Clerk • LangChain | 🔗 https://pyarjanthapa.com.np/ |
-| 🚗 **Vutungtung – Vehicle Rental** | React • Node • MongoDB | 🔗 https://pyarjanthapa.com.np/ |
-| ⌨️ **Typing Test – WPM APP** | JavaScript • UI/UX | 🔗 https://pyarjanthapa.com.np/ |
-| 📊 **AdminPro Dashboard** | React • API • Charts | 🔗 https://pyarjanthapa.com.np/ |
-| 🎬 **MovieMandap App** | TypeScript • TMDB API | 🔗 github.com/itspyarjanthapa/MovieMandap-App |
+<table>
+<tr>
+<td align="center">
+  
+### 🧠 Aivise — AI Resume Coach  
+<img src="https://img.shields.io/badge/Next.js%20•%20Convex%20•%20Clerk-000000?style=flat" /><br/>
+AI-powered resume builder helping people level up their career.  
+🔗 https://pyarjanthapa.com.np/
+
+</td>
+<td align="center">
+
+### 🚗 Vutungtung — Vehicle Rental  
+<img src="https://img.shields.io/badge/React%20•%20Node%20•%20MongoDB-10B981?style=flat" /><br/>
+Digital platform for renting bikes, scooters, cars.  
+🔗 https://pyarjanthapa.com.np/
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⌨️ Typing Test — WPM Game  
+<img src="https://img.shields.io/badge/JavaScript%20•%20UI%20Design-FF6B6B?style=flat" /><br/>
+Fast, fun, and challenging typing battle.  
+🔗 https://pyarjanthapa.com.np/
+
+</td>
+<td align="center">
+
+### 📊 AdminPro Dashboard  
+<img src="https://img.shields.io/badge/React%20•%20Charts-9C27B0?style=flat" /><br/>
+Advanced analytics dashboard with UI components.  
+🔗 https://pyarjanthapa.com.np/
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
 <br/><br/>
 
-<!-- =======================  GITHUB STATS SECTION  ======================== -->
+<!-- ======================== GITHUB STATS ======================== -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Performance</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itspyarjanthapa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -72,32 +108,32 @@ Fueled by <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspyarjanthapa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/><br/>
-
-<!-- =======================  3D TROPHY / BADGES ======================== -->
-
-<h2 align="center">🏆 Achievements & Highlights</h2>
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itspyarjanthapa&theme=onestar&column=6&no-frame=true" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg?username=itspyarjanthapa&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <br/><br/>
 
-<!-- =======================  CONTACT SECTION ======================== -->
+<!-- ======================== TROPHIES ======================== -->
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <a href="https://www.pyarjanthapa.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pyarjanthapa/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:itspyarjanchhetri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=itspyarjanthapa&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+<br/><br/>
+
+<!-- ======================== CONTACT ======================== -->
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.pyarjanthapa.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pyarjanthapa/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:itspyarjanchhetri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br/>
@@ -106,5 +142,5 @@ Fueled by <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</
   <img src="https://komarev.com/ghpvc/?username=itspyarjanthapa&style=flat-square&color=00E5FF" />
 </p>
 
-<p align="center"><em>✨ Thanks for stopping by — let’s build something extraordinary.</em></p>
+<p align="center"><em>✨ Thanks for visiting — let's build something extraordinary.</em></p>
 
