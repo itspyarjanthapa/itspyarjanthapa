@@ -39,17 +39,12 @@ Digital vehicle rental system with modern UI.
 **Stack:** React • Node.js • MongoDB  
 🔗 https://pyarjanthapa.com.np/
 
-### 🔹 **Typing Test — WPM Game**  
-Fast, clean typing speed app for productivity.  
-**Stack:** JavaScript • UI/UX  
+### 🔹 **Who Know's The Word? Mobile Game**  
+Simple, Clean offline Imposter Word Game.
+**Stack:** React Native • Typescript • Expo CLI 
 🔗 https://pyarjanthapa.com.np/
 
-### 🔹 **AdminPro Dashboard**  
-Clean admin UI with charts, cards & analytics.  
-**Stack:** React  
-🔗 https://pyarjanthapa.com.np/
 
-<br/>
 
 ---
 
