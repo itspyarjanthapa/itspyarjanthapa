@@ -26,24 +26,13 @@ Passionate about React, Next.js, TypeScript, Node.js & modern frontend engineeri
 <br/>
 
 ---
-
 # 🚀 Featured Projects
 
-### 🔹 **Aivise — AI Resume Coach**  
-Minimal + powerful resume builder for job seekers.  
-**Stack:** Next.js • Convex • Clerk  
-🔗 https://pyarjanthapa.com.np/
-
-### 🔹 **Vutungtung — Vehicle Rental Platform**  
-Digital vehicle rental system with modern UI.  
-**Stack:** React • Node.js • MongoDB  
-🔗 https://pyarjanthapa.com.np/
-
-### 🔹 **Who Know's The Word? Mobile Game**  
-Simple, Clean offline Imposter Word Game.
-**Stack:** React Native • Typescript • Expo CLI 
-🔗 https://pyarjanthapa.com.np/
-
+| Project | Description | Stack | Link |
+|--------|-------------|--------|------|
+| **Aivise — AI Resume Coach** | Minimal + powerful resume builder for job seekers | Next.js, Convex, Clerk | 🔗 https://pyarjanthapa.com.np/ |
+| **Vutungtung — Vehicle Rental Platform** | Vehicle rental system with modern UI | React, Node.js, MongoDB | 🔗 https://pyarjanthapa.com.np/ |
+| **Who Know's The Word?** | Simple clean Offline Imposter Word game | React Native, TypeScript, Expo CLI | 🔗 https://pyarjanthapa.com.np/ |
 
 
 ---
