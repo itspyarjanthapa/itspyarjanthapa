@@ -20,7 +20,6 @@
 
 I'm a **fullstack developer** with a UI/UX mindset. I like turning rough ideas into polished, production-ready products — web and mobile — with a focus on performance, clean design and good developer experience.
 
-- 🔭 Building **Aivise**, an AI resume coach for job seekers
 - 🚗 Built **Vutungtung**, a vehicle rental platform
 - 🎮 Built **Who Know's The Word?**, an offline imposter word game
 - 🧰 Daily tools: **React, Next.js, TypeScript, Node.js, Tailwind**
